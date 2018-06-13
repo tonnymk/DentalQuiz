@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Dental Quiz</string>
+    <string name="intro_header">Introduction</string>
+    <string name="reg_header">Registration</string>
+    <string name="name_hint">Full Name</string>
+    <string name="age_hint">Age(Years)</string>
+    <string name="gender_label">Select Gender</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="intro_text">Periodontal disease is an infection of the tissues that hold your teeth in place, which include the gums, periodontal ligament and alveolar bone.
+        The risk of getting periodontal disease can be classified into:-
+        \n\t• Low risk
+        \n\t• Moderate risk
+        \n\t• High risk
+        \nPlease fill in this quiz to know your risk of getting periodontal disease
+    </string>
+
+
+    <string name="dental_hygiene_sub_title">Dental Hygiene</string>
+    <string name="gum_status_sub_title">Gum Status</string>
+    <string name="risk_factors_sub_title">Risk Factors</string>
+
+    <string name="q1">1. How frequently do you brush your teeth?</string>
+    <string name="radio_1a">Once a day</string>
+    <string name="radio_1b">More than once a day</string>
+    <string name="radio_1c">Rarely</string>
+    <string name="radio_1d">Never</string>
+
+
+    <string name="q2">2. How frequently do you clean between your teeth(flossing)?</string>
+    <string name="radio_2a">Once a day</string>
+    <string name="radio_2b">More than once a day</string>
+    <string name="radio_2c">Rarely</string>
+    <string name="radio_2d">Never</string>
+
+
+    <string name="q3">3. How often do you have your teeth cleaned professionally by a dentist or dental hygienist?</string>
+    <string name="radio_3a">Once a year</string>
+    <string name="radio_3b">More than once a year</string>
+    <string name="radio_3c">Never</string>
+
+
+    <string name="q4">4. Do your gums bleed when brushing or flossing your teeth?</string>
+    <string name="radio_4a">Yes</string>
+    <string name="radio_4b">No</string>
+    <string name="radio_4c">Sometimes</string>
+
+
+    <string name="q5">5. Do any of your teeth feel loose?</string>
+    <string name="radio_5a">Yes</string>
+    <string name="radio_5b">No</string>
+    <string name="radio_5c">Not sure</string>
+
+
+    <string name="q6">6. Do your gums appear to be receding away from your teeth?</string>
+    <string name="radio_6a">Yes</string>
+    <string name="radio_6b">No</string>
+    <string name="radio_6c">Not sure</string>
+
+
+    <string name="q7">7. Does any of your immediate family members have history of periodontal diesease?</string>
+    <string name="radio_7a">Yes</string>
+    <string name="radio_7b">No</string>
+    <string name="radio_7c">Not sure</string>
+
+
+    <string name="q8">8. Do you smoke or use tobbaco products?</string>
+    <string name="radio_8a">Yes</string>
+    <string name="radio_8b">No</string>
+    <string name="radio_8c">Not any more</string>
+
+
+    <string name="q9">9. Have you ever been diagnosed with any of the following disease? Please check appropriately.</string>
+    <string name="check_9a">Diabetes</string>
+    <string name="check_9b">Heart Disease</string>
+    <string name="check_9c">High Blood Pressure</string>
+    <string name="check_9d">Stroke</string>
+    <string name="check_9e">Osteoporosis</string>
+
+
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="result_label">Results</string>
+    <string name="new_quiz">New Quiz</string>
+    <string name="result_title">Risk for Periodonatal Disease</string>
+    <string name="age_gender_sample">Age+Gender</string>
+    <string name="name_sample">Name</string>
+    <string name="rating_sample">RATING</string>
+    <string name="comment_sample">Comment</string>
+
+
+</resources>
